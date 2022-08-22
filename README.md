@@ -60,6 +60,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-menu](screens/menu)
 - [screen-login](screens/login)
+- [screen-job-details-candidate-view](screens/job-details-candidate-view)
 
 # Getting started: Frontend
 
